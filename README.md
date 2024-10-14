@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daveencar03.
-- 👀 I’m interested in music and video games.
-- 🌱 I’m currently learning C++.
+- 👀 I’m interested in developing software for space systems applications.
+- 🌱 I’m currently learning Micropython and Circuitpython.
 - 💞️ I’m looking to collaborate on something.
 - 📫 How to reach me: Email me at daveencar03@vt.edu.
 
